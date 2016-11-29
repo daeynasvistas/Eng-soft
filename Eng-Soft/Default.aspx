@@ -8,11 +8,7 @@
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
     
-    <!-- montes e montes de cenas -->
-    <!-- bué nice esta base de dados -->
 
-
-    <!-- ultima cena-->
 
     <div class="row">
         <div class="col-md-4">
