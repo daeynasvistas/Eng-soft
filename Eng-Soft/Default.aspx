@@ -8,7 +8,7 @@
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
     
-    <!-- montes de cenas -->
+    <!-- montes e montes de cenas -->
 
     <div class="row">
         <div class="col-md-4">
